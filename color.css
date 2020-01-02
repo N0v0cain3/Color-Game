@@ -1,0 +1,33 @@
+body{
+	background-color:#232323;
+}
+ #container{
+ 	max-width:600px;
+ 	margin: 0 auto;
+ }
+ #message{
+ 	color:black;
+ }
+
+.square{
+	width: 30%;
+	background-color: purple;
+	padding-bottom:30%;
+	float:left;
+	margin: 1.66%;
+}
+span{
+	color: white;
+}
+#stripe{
+	background:white;
+	height:30px;
+	text-align:center;
+	color:black;
+}
+
+
+h1{
+color: white;
+
+}

@@ -92,7 +92,7 @@
 	function generateRandomColor(num)
 	{
 	var arr=[];
-	for(var i=0;i<num;i++)
+	for(var j=0;j<num;j++)
 	{
 		arr.push(randomColor());
 	}

@@ -1,4 +1,4 @@
-	var numSquares=6;
+	var numSquares=0;
 	var colors=generateRandomColor(numSquares);
 	var square=document.querySelectorAll(".square");
 	var colorDisplay=document.getElementById("colorDisplay");
